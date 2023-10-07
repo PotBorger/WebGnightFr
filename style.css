@@ -3,7 +3,7 @@
     font-family: 'Mooli', sans-serif;
 }
 .image-container{
-    height: 200px;
+    height: 170px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -30,7 +30,7 @@
     border: solid;
     align-items: center;
     text-align: center;
-    color:aliceblue;
+    color: aliceblue;
     width: 100%;
     background-repeat: no-repeat;
     margin-bottom: 0px;
